@@ -1,0 +1,8 @@
+package prjGUITestScores_KadenPatton;
+
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
+public class TestScoresView extends JFrame {
+
+}

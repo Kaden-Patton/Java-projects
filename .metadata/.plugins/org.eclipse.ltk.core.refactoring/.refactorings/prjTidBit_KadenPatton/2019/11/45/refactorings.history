@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;balanceOwed&apos; in &apos;prjTidBit_KadenPatton.clsTidBit.main(...)&apos; to &apos;startBalance&apos;&#x0D;&#x0A;- Original project: &apos;prjTidBit_KadenPatton&apos;&#x0D;&#x0A;- Original element: &apos;prjTidBit_KadenPatton.clsTidBit.main(String[]).balanceOwed&apos;&#x0D;&#x0A;- Renamed element: &apos;balanceOwed&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;balanceOwed&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;prjTidBit_KadenPatton{clsTidBit.java[clsTidBit~main~\[QString;@balanceOwed!355!373!362!372!D!0!false" name="startBalance" references="true" stamp="1572796732110" version="1.0"/>
+</session>

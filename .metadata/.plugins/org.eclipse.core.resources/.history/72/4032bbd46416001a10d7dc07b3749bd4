@@ -1,0 +1,23 @@
+// Therapist project by Kaden Patton December 3rd 2019
+
+package prjTherapist_KadenPatton;
+
+import java.util.Scanner;
+
+public class TherapistView {
+
+	private Therapist therapist = new Therapist();
+	
+	public TherapistView()
+	{
+		Scanner input = new Scanner(System.in);
+		
+		System.out.print("Hello, what problem can I help you with today?");
+		
+		while(true) 
+		{
+			
+		}
+	}
+	
+}

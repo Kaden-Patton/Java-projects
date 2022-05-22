@@ -1,0 +1,49 @@
+// Therapist project by Kaden Patton December 3rd 2019
+package prjTherapist_KadenPatton;
+
+import java.util.*;
+
+public class Therapist {
+
+	private List<String> history;
+	private Set<String> hedge;
+	private Set<String> qualifier;
+	private Map<String, String> replacement;
+	
+	public Therapist() {
+		history = new ArrayList<String>();
+		hedge = new HashSet<String>();
+		hedge.add("Please tell me more.");
+		hedge.add("I have heard the same thing from many of my patients.");
+		hedge.add("We have made a lot of progress today, perhaps we shall take a break.");
+		
+		qualifier = new HashSet<String>();
+		qualifier.add("And why exactly do you say that ");
+		qualifier.add("You mentioned that ");
+		qualifier.add("So, you think that ");
+		
+		replacement = new HashMap<String, String>();
+		replacement.put("i", "me");
+		replacement.put("me", "you");
+		replacement.put("my", "your");
+		replacement.put("am", "are");
+		
+	}
+	
+	
+	public String reply(String userString)
+	{
+		String reply = "";
+		Random rand = new Random();
+		
+		
+		if(userString.trim().contentEquals(""))
+		{
+			return "Please, talk to me.";
+		}
+		
+		if()
+		
+	}
+	
+}

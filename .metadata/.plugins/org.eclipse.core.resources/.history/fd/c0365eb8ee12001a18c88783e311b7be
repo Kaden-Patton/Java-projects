@@ -1,0 +1,14 @@
+package prjGUITestScores_KadenPatton;
+
+public class TestScoreModel {
+		
+	private Student[] students;
+	private int iCurStudent;
+	private int studentCount;
+	
+	public TestScoreModel() 
+	{
+		iCurStudent = 0'
+	}
+	
+}

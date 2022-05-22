@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="dialogHeight" value="-1"/>
+		<item key="dialogWidth" value="-1"/>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textEntries">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ZipFile"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jdt.ui.Java"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\notaz\Documents\[COSC] Submissions\prjTherapist_KadenPatton.zip"/>
+			<item value="C:\Users\notaz\Documents\[COSC] Submissions\prjGUITestScores_KadenPatton.zip"/>
+			<item value="C:\Users\notaz\Documents\[COSC] Submissions\prjArrayIntegers_KadenPatton.zip"/>
+			<item value="C:\Users\notaz\Documents\[COSC] Submissions\prjGradesModified_KadenPatton.zip"/>
+			<item value="C:\Users\notaz\Documents\[COSC] Submissions\prjGradesAssignment_KadenPatton.zip"/>
+			<item value="C:\Users\notaz\Documents\[COSC] Submissions\prjDrawingAssignment_KadenPatton.zip"/>
+			<item value="C:\Users\notaz\Documents\[COSC] Submissions\prjTidBit_KadenPatton.zip"/>
+			<item value="C:\Users\notaz\Documents\[COSC] Submissions\prjTestScores_KadenPatton.zip"/>
+			<item value="C:\Users\notaz\Documents\[COSC] Submissions\prjGambling_KadenPatton.zip"/>
+			<item value="C:\Users\notaz\Documents\[COSC] Submissions\prjAWTCounter_KadenPatton.zip"/>
+			<item value="C:\Users\notaz\Documents\[COSC] Submissions\prjTestDraw_KadenPatton.zip"/>
+			<item value="C:\Users\notaz\Documents\[COSC] Submissions\Incoming Freshmen.zip"/>
+			<item value="C:\Users\notaz\Documents\[COSC] Submissions\Employee Pay.zip"/>
+			<item value="C:\Users\notaz\Documents\[COSC] Submissions\Income Tax Calculator.zip"/>
+			<item value="C:\Users\notaz\Documents\[COSC] Submissions\Sheep pattern.zip"/>
+			<item value="C:\Users\notaz\Documents\[COSC] Submissions\Java is hot.zip"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+		<item key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\notaz\Documents\[COSC] Submissions\prjGradesAssignment_KadenPatton.zip"/>
+		</list>
+	</section>
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="651"/>
+		<item key="DIALOG_Y_ORIGIN" value="163"/>
+	</section>
+</section>

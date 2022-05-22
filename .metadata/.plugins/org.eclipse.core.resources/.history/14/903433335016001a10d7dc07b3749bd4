@@ -1,0 +1,11 @@
+package prjTherapist_KadenPatton;
+
+public class TherapistView {
+
+	TherapistView()
+	{
+		System.out.println("Hello! How may I help you today?");
+	}
+	
+	
+}

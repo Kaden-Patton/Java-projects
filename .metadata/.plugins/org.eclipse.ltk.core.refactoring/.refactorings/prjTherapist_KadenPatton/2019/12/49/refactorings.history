@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;hedgeSet&apos; in &apos;prjTherapist_KadenPatton.Therapist&apos; to &apos;hedge&apos;&#x0D;&#x0A;- Original project: &apos;prjTherapist_KadenPatton&apos;&#x0D;&#x0A;- Original element: &apos;prjTherapist_KadenPatton.Therapist.hedgeSet&apos;&#x0D;&#x0A;- Renamed element: &apos;prjTherapist_KadenPatton.Therapist.hedge&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;hedgeSet&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;prjTherapist_KadenPatton{Therapist.java[Therapist^hedgeSet" name="hedge" references="true" setter="false" stamp="1575441612254" textual="false" version="1.0"/>
+</session>

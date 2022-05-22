@@ -1,0 +1,32 @@
+// Kaden Patton November 29th 2019
+package prjGUITestScores_KadenPatton;
+
+public class TestScoreModel {
+		
+	private Student[] students;
+	private int iCurStudent;
+	private int studentCount;
+	
+	public TestScoreModel() 
+	{
+		iCurStudent = -1;
+		studentCount = 0;
+		students = new Student[10];
+	}
+	
+	public String add(Student s)
+	{
+		if(studentCount == students.length)
+			return "[Error] Student list is full";
+		else
+		{
+			students[studentCount] = s;
+			iCurStudent = studentCount;
+			studentCount++;
+			return null;
+		}
+		
+	}
+	
+	
+}

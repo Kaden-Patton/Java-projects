@@ -1,0 +1,5 @@
+package prjGUITestScores_KadenPatton;
+
+public class TestScoresView extends JFrame {
+
+}

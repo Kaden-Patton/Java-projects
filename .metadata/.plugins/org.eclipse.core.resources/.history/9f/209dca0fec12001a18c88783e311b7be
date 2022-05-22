@@ -1,0 +1,18 @@
+// Kaden Patton November 29th 2019
+
+package prjGUITestScores_KadenPatton;
+
+public class Student {
+	
+	private String name;
+	private int[] tests;
+	
+	public Student()
+	{
+		this("");
+	}
+	
+	public Student(String name) {
+		this(name, 3);
+	}
+}

@@ -1,0 +1,10 @@
+package prjTherapist_KadenPatton;
+
+public class TherapistApp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
